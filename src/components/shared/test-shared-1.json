@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_test_shared_1s",
+  "info": {
+    "displayName": "test-shared-1"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "text"
+    },
+    "ph_no": {
+      "type": "biginteger"
+    }
+  },
+  "config": {}
+}
